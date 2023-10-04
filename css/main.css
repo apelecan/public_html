@@ -1,0 +1,87 @@
+
+rt url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+.menu {
+    position: absolute;
+    top: 24px;
+    left: 110px;
+}
+.menu_item {
+    margin-right: 3em;
+    font-weight: bold;
+}
+
+.content {
+    position: absolute;
+    top: 72px;
+    left: 110px;
+    width: 850px;
+}
+
+body {
+	width:60%;
+	margin:0 auto;
+	font-size: 1.1rem;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+hr {
+	height: 1px;
+	border-width: 0;
+	background-color: #F0F0F0;
+	width:100%;
+}
+
+div.about {
+	width:70%;
+	float: left;
+	/*font-family:"Cambria";*/
+	font-size: 1.2rem;
+}
+
+div.picture {
+	height:100%;
+	margin-left: 75%;
+}
+
+picture {
+	height:100%;
+	margin-left: 75%;
+}
+
+img {
+	height: 1em;
+}
+
+h1 {
+	font-family: "Lato", sans-serif;
+	text-shadow: none;
+	font-weight: 400;
+	font-size: 3rem;
+	line-height: 1.3em;
+	color: #404040;
+}
+
+a {
+	text-decoration: none;
+}
+
+#coursesTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+
+#educationTable td 
+{
+    text-align: left; 
+    vertical-align: middle;
+}
+
+#publicationsTable td
+{
+    text-align: left;
+    vertical-align: middle;
+}
+
